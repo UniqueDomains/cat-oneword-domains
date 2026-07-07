@@ -1,10 +1,10 @@
-# Available .CAT One-Word Domains (66)
+# Available .CAT One-Word Domains (69)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-67%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-69%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-69%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cat one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 67 rows · **Live catalog:** 66 domains · **Median ask:** $26.98 · **High-demand under $2,500:** 0
+**Public extract:** 69 rows · **Live catalog:** 69 domains · **Median ask:** $26.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/cat`
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CAT one-word domain c
 
 ### Files
 
-- `cat.csv`, public CSV extract (67 rows)
-- `cat.json`, public JSON extract (67 rows)
+- `cat.csv`, public CSV extract (69 rows)
+- `cat.json`, public JSON extract (69 rows)
 - `DATA_DICTIONARY.md`, field definitions for the exported files
 - `METHODOLOGY.md`, scope, refresh policy, and caveats
 - `CHANGELOG.md`, latest snapshot metadata
@@ -71,6 +71,7 @@ print(df.head())
 | preferences.cat   | available | $26.98    | $38.98        | high           | low    | 11     | namecheap |
 | FinalFour.cat     | available | $26.98    | $38.98        | high           | low    | 10     | namecheap |
 | mealsonwheels.cat | available | $26.98    | $38.98        | high           | low    | 15     | namecheap |
+| ane.cat           | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
 | axes.cat          | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | Jews.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
 | says.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
@@ -82,8 +83,7 @@ print(df.head())
 | nuclei.cat        | available | $26.98    | $38.98        | medium         | low    | 6      | namecheap |
 | tapon.cat         | available | $26.98    | $38.98        | medium         | low    | 6      | namecheap |
 | actions.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
-| couples.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
-| results.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
+| century.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract        | Unique Domains                             |
 | --------------------- | ------------------------------------------ |
-| 67-row public sample  | 66 live domains                            |
+| 69-row public sample  | 69 live domains                            |
 | Static CSV / JSON     | live search and daily refresh              |
 | Basic exported fields | 0 high-demand names under $2,500           |
 | No persistence        | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
