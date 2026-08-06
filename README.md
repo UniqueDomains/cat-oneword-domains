@@ -1,22 +1,22 @@
-# Available .CAT One-Word Domains (69)
+# Available .CAT One-Word Domains (1,413)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-69%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-69%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C413%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cat one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cat one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **1,413 domains** on the canonical page below.
 
-**Public extract:** 69 rows · **Live catalog:** 69 domains · **Median ask:** $26.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,413 domains · **Median ask:** $26.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/cat`
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CAT one-word domain c
 
 ### Files
 
-- `cat.csv`, public CSV extract (69 rows)
-- `cat.json`, public JSON extract (69 rows)
+- `cat.csv`, public CSV extract (1,000 rows)
+- `cat.json`, public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md`, field definitions for the exported files
 - `METHODOLOGY.md`, scope, refresh policy, and caveats
 - `CHANGELOG.md`, latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| dogsledmail.cat   | available | $26.98    | $38.98        | high           | low    | 12     | namecheap |
-| gearup.cat        | available | $26.98    | $38.98        | high           | low    | 7      | namecheap |
-| midafternoon.cat  | available | $26.98    | $38.98        | high           | low    | 12     | namecheap |
-| barup.cat         | available | $26.98    | $38.98        | high           | low    | 6      | namecheap |
-| preferences.cat   | available | $26.98    | $38.98        | high           | low    | 11     | namecheap |
-| FinalFour.cat     | available | $26.98    | $38.98        | high           | low    | 10     | namecheap |
-| mealsonwheels.cat | available | $26.98    | $38.98        | high           | low    | 15     | namecheap |
-| ane.cat           | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
-| axes.cat          | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
-| Jews.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
-| says.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
-| seas.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
-| sees.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
-| draws.cat         | available | $26.98    | $38.98        | medium         | low    | 5      | namecheap |
-| cypher.cat        | available | $26.98    | $38.98        | low            | medium | 6      | namecheap |
-| goape.cat         | available | $26.98    | $38.98        | high           | low    | 6      | namecheap |
-| nuclei.cat        | available | $26.98    | $38.98        | medium         | low    | 6      | namecheap |
-| tapon.cat         | available | $26.98    | $38.98        | medium         | low    | 6      | namecheap |
-| actions.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
-| century.cat       | available | $26.98    | $38.98        | medium         | low    | 7      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| FinalFour.cat   | available | $26.98    | $38.98        | high           | low    | 10     | namecheap |
+| barup.cat       | available | $26.98    | $38.98        | high           | low    | 6      | namecheap |
+| preferences.cat | available | $26.98    | $38.98        | high           | low    | 11     | namecheap |
+| ain.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| ane.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| clv.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| cxv.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| cxx.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| iii.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| ilx.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| ixc.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| ixl.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| lii.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| lvi.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| lxv.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| lxx.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| xcv.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| xlv.cat         | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
+| aery.cat        | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
+| ague.cat        | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract        | Unique Domains                             |
-| --------------------- | ------------------------------------------ |
-| 69-row public sample  | 69 live domains                            |
-| Static CSV / JSON     | live search and daily refresh              |
-| Basic exported fields | 0 high-demand names under $2,500           |
-| No persistence        | Radar, saved search, and alerts            |
-| No founder workflow   | Project, shortlist, and next-step workflow |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 1,413 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
