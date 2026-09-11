@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cat one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,464 domains · **Median ask:** $27.22 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/cat`
 **Best for:** founders, investors, studios
 
@@ -65,8 +65,10 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | end.cat  | available | $26.98    | $38.98        | medium         | low    | 3      | namecheap |
+| yid.cat  | available | $26.98    | $38.98        | medium         | medium | 3      | namecheap |
 | arum.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | avid.cat | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
+| barf.cat | available | $26.98    | $38.98        | medium         | medium | 4      | namecheap |
 | blat.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | blur.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | cagy.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
@@ -78,12 +80,10 @@ print(df.head())
 | grad.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | gull.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | harm.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
-| heed.cat | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
 | Jews.cat | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
 | jinx.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | lxxv.cat | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | pose.cat | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
-| rale.cat | available | $26.98    | $38.98        | low            | medium | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
