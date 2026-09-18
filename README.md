@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cat one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,312 domains · **Median ask:** $27.21 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/cat`
 **Best for:** founders, investors, studios
 
@@ -68,13 +68,13 @@ print(df.head())
 | academy.cat | resell    | —         | —             | low            | low    | 7      | —         |
 | gur.cat     | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
 | nnw.cat     | available | $26.98    | $38.98        | low            | low    | 3      | namecheap |
-| yid.cat     | available | $26.98    | $38.98        | medium         | medium | 3      | namecheap |
+| agua.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
+| akha.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | avid.cat    | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
 | blur.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | cagy.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | crow.cat    | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap |
 | dare.cat    | available | $39.99    | $39.99        | low            | low    | 4      | name.com  |
-| eery.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | fake.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | grad.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | gull.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
@@ -82,8 +82,8 @@ print(df.head())
 | lxxv.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | sere.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | slav.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
+| stir.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 | trna.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
-| wads.cat    | available | $26.98    | $38.98        | low            | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
