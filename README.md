@@ -1,10 +1,10 @@
-# Available .CAT One-Word Domains (29,367)
+# Available .CAT One-Word Domains (31,685)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C367%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C685%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,367 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,685 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,367 domains · **Median ask:** $24.72 · **High-demand under $2,500:** 58
+**Public extract:** 1,000 rows · **Live catalog:** 31,685 domains · **Median ask:** $24.37 · **High-demand under $2,500:** 66
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/cat`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | are.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
 | rosa.cat     | resell    | —         | —             | high           | low    | 4      | —               |
-| chf.cat      | available | $18.83    | $25.04        | medium         | low    | 3      | spaceship       |
+| cfb.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | academy.cat  | resell    | —         | —             | high           | low    | 7      | Namecheap, Inc. |
-| edm.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
+| chf.cat      | available | $18.83    | $25.04        | medium         | low    | 3      | spaceship       |
 | pensions.cat | resell    | —         | —             | medium         | low    | 8      | —               |
+| edm.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
 | eel.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | end.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
 | fis.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | flu.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | ghz.cat      | available | $18.50    | $24.59        | high           | low    | 3      | dynadot         |
 | gur.cat      | available | $26.98    | $38.98        | medium         | low    | 3      | namecheap       |
+| hmo.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | ken.cat      | available | $18.42    | $24.48        | high           | low    | 3      | dynadot         |
 | llb.cat      | available | $26.98    | $38.98        | medium         | low    | 3      | namecheap       |
+| mhd.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | odi.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
 | rag.cat      | available | $26.98    | $38.98        | medium         | low    | 3      | namecheap       |
 | sew.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
-| tow.cat      | available | $26.98    | $38.98        | high           | low    | 3      | namecheap       |
-| ucl.cat      | available | $18.83    | $25.04        | high           | low    | 3      | spaceship       |
-| ups.cat      | available | $18.83    | $25.04        | high           | medium | 3      | spaceship       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,367 live domains                        |
+| 1,000-row public sample | 31,685 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 58 high-demand names under $2,500          |
+| Basic exported fields   | 66 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAT One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
